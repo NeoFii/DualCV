@@ -25,6 +25,11 @@ refs.bib
 *.jpg
 *.png
 
+# 保留示例资源
+!assets/
+!assets/**
+!avatar.png
+
 # 编辑器
 .vscode/
 *.swp
