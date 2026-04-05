@@ -1,0 +1,33 @@
+# LaTeX 编译产物
+*.aux
+*.log
+*.out
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+*.bbl
+*.bcf
+*.blg
+*.run.xml
+*.toc
+*.lof
+*.lot
+*.nav
+*.snm
+*.vrb
+
+# 编译输出
+*.pdf
+
+# 个人信息文件（请勿提交）
+resume.tex
+refs.bib
+*.jpg
+*.png
+
+# 编辑器
+.vscode/
+*.swp
+*~
+.DS_Store
+Thumbs.db
